@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bodyPagina
+{
+    background-color: azure;
+}
+form
+{
+    padding-left: 20px;
+    padding-top: 40px;
+}
